@@ -12,18 +12,6 @@ PureNest is a modern, responsive website inspired by **Amul's iconic brand ident
 https://your-demo-link.com
 ```
 
----
-
-## Preview
-
-> Add screenshots or GIFs of the website here.
-
-| Home Page | Product Showcase |
-|-----------|------------------|
-| ![Home](public/home.png) | ![Products](public/products.png) |
-
----
-
 ## Features
 
 - Modern and clean UI inspired by Amul

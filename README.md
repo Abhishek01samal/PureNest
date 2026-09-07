@@ -164,7 +164,7 @@ git commit -m "Add new feature"
 
 ## License
 
-This project is created for educational and portfolio purposes.
+This project is created for educational and portfolio purposes so you can get experience by wwatching it but sot copy any comonent.
 
 ---
 

@@ -6,7 +6,7 @@ Try these type of project for fun..
 
 ## Features
 
-- Modern and clean UI inspired by Amul
+- Modern and clean UI inspired by Amul and its Product
 - Fully responsive design
 - Built using Vite for fast performance
 - Smooth scrolling animations

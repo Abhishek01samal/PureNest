@@ -1,7 +1,7 @@
 # PureNest – Modern Amul-Inspired Website
 
 PureNest is a modern, responsive website inspired by **Amul's iconic brand identity**, built with **React, TypeScript, Vite, Tailwind CSS, and Framer Motion**. The project focuses on creating an engaging user experience with smooth animations, premium UI design, and responsive layouts while showcasing Amul's diverse product range and i have also created a moreprojects like this.
-
+and doing fun things like this 
 Try these type of project for fun..
 
 ## Features
